@@ -1,11 +1,67 @@
-* {
-	box-sizing: border-box;
-	margin: 0;
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-header {
-	text-align: center;
-	color: white;
-	padding: 20px;
-	background-color: lightseagreen;
+/* Adding some border and text color on the header tag */
+header{
+    background: linear-gradient(to right, #308abe, #030b61);
+    color: white;
+}
+
+/* Editing the input of the page with some width, height, margin top and padding left */
+input{
+    width: 100%;
+    height: 40px;
+    margin-top: 5px;
+    padding-left: 5px;
+}
+
+/* Making the button occupy all column space */
+button{
+    width: 100%;
+    margin-top: 15px;
+}
+
+/* Making the hr tag bigger by adding some border */
+hr{
+    border: 2px solid;
+}
+
+/* Taking out the li style and adding some margin on the li tag */
+li{
+    list-style: none;
+    margin-top: 7px;
+}
+
+/* Editing the style of the box that contains the next 5 days weather */
+.box_next_days{
+    background-color: rgb(39, 39, 66);
+    color: white;
+    width: 100%;
+    margin: 0 6px 0 6px;
+    height: 230px;
+}
+
+/* Class that will hide the buttons */
+.hide{
+    display: none;
+}
+
+/* Customizing the button that contains the cities name */
+.button_city{
+    background: rgb(111, 145, 209);
+    border-radius: 4px;
+    color: white;
+    padding: 5px 0 5px 0;
+}
+
+/* Editing the weather image */
+.icon{
+    width: 50px;
+    height: 40px;
+    margin-left: 15px;
 }
