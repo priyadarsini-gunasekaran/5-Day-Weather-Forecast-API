@@ -20,6 +20,12 @@ Data currently does not remain stored once page is refreshed. Future iteration s
 
 Javascript code can be simplified using loops to remove repetitive code.
 
+Links:
+
+Deployed website url: https://priyadarsini-gunasekaran.github.io/5-Day-Weather-Forecast-API/starter/index.html
+
+Repo url: https://github.com/priyadarsini-gunasekaran/5-Day-Weather-Forecast-API 
+
 Screenshot:
 ## Home page for my 5 Day Weather Forecast.
 ![Home page for my 5 Day Weather Forecast..](./assets/images/5%20Day%20weather.jpg)
