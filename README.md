@@ -1,12 +1,15 @@
-# Module 8 Server-Side APIs: Weather Dashboard
-5-Day Forecast
-Description
+# 5 Day Weather Forecast API
+
+Description:
+
 A convenient weather app using OpenWeather's free API to display a live five day forecast. User searches by city location and the corresponding weather will appear with city name, user request date, temperature,wind, humidity, etc.
 
 Design:
+
 Layout design was created using Bootstraps.
 
 Current Functions:
+
 User is able to search for desired city and submit a request for the weather. Upon submission user history will be displayed as a list. Weather details will appear along with a 5-day forecast.
 
 Improvements:
